@@ -1,0 +1,2 @@
+# This is a Python desktop application, no external dependencies beyond standard library
+# The application uses tkinter which is included with Python
