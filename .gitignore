@@ -1,0 +1,280 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.pytest_cache/
+.hypothesis/
+.eggs/
+eggs/
+parts/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+pip-wheel-metadata/
+wheels/
+share/python-wheels/
+*.so
+.Python
+build/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+pip-wheel-metadata/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+lib/
+lib64/
+pip-wheel-metadata/
+wheels/
+share/python-wheels/
+*.egg-info/
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+.dist-info/
+.egg-info/
+.eggs/
+lib/
+lib64/
+pip-wheel-metadata/
+wheels/
+share/python-wheels/
+*.egg-info/
+*.egg
+*.tar.gz
+*.whl
+*.zip
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Executables and build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.out
+
+# Build scripts and artifacts
+*.spec
+build/
+dist/
+*.egg-info/
+target/
+.gradle/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.pytest_cache/
+.hypothesis/
+.eggs/
+eggs/
+parts/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+pip-wheel-metadata/
+wheels/
+share/python-wheels/
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+ENV/
+env/
+
+# Windows executables
+*.exe
+*.msi
+*.msm
+*.msp
+*.cab
+*.sys
+*.dll
+*.ocx
+*.com
+*.tlb
+*.tlh
+*.tli
+*.tmp
+*.temp
+*.log
+*.bak
+*.old
+*.orig
+*.rej
+*.gz
+*.tar
+*.zip
+*.rar
+*.7z
+*.bz2
+*.xz
+*.z
+*.Z
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.Z
+*.tar.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+```
