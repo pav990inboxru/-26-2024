@@ -1,6 +1,6 @@
 # -*- mode: python ; coding: utf-8 -*-
 
-
+# UPX is not available in some environments, so set upx=False
 a = Analysis(
     ['main.py'],
     pathex=[],
@@ -26,14 +26,14 @@ exe = EXE(
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
-    upx=True,
+    upx=False,  # Set to False for compatibility
     upx_exclude=[],
     runtime_tmpdir=None,
-    console=False,
+    console=False,  # Hide console window
     disable_windowed_traceback=False,
     argv_emulation=False,
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['.'],
+    icon='icon.ico',  # Reference to the STALKER-themed icon
 )

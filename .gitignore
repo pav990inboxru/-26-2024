@@ -1,60 +1,38 @@
 ```
-# Compiled and build artifacts
-*.pyc
+# Build artifacts
+*.spec
+dist/
+build/
 __pycache__/
-*.o
-*.obj
-*.exe
-*.dll
-*.so
-*.a
-*.out
+*.pyc
+*.pyo
+*.pyd
 
 # Dependencies
-.venv/
 venv/
-node_modules/
-
-# Build and distribution
-build/
-dist/
-*.spec
-
-# Logs and temp files
-*.log
-*.tmp
-*.swp
-
-# Environment
+.venv/
 .env
 .env.local
-*.env.*
 
 # Editors
 .vscode/
 .idea/
 
-# Compressed files
-*.zip
-*.gz
-*.tar
-*.tgz
-*.bz2
-*.xz
-*.7z
-*.rar
-*.zst
-*.lz4
-*.lzh
-*.cab
-*.arj
-*.rpm
-*.deb
-*.Z
-*.lz
-*.lzo
-*.tar.gz
-*.tar.bz2
-*.tar.xz
-*.tar.zst
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
 ```
+StayOutTimer_Complete_Package.zip
+
+StayOutTimer_Final_Fixed.zip
+
+StayOutTimer_Fixed_Package.zip
+
+StayOutTimer_Full_Package.zip
+
+StayOutTimer_Windows_v1.0.0.zip
+
+stay_out_timer_fixed.zip
