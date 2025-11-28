@@ -1,29 +1,60 @@
 ```
-# Configuration and data files
-*.json
-*.env
-*.env.*
-
-# Python specific
+# Compiled and build artifacts
 *.pyc
 __pycache__/
-*.pyo
-*.pyd
-.Python
-python-eggs/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.out
 
-# Build artifacts
+# Dependencies
+.venv/
+venv/
+node_modules/
+
+# Build and distribution
 build/
 dist/
-*.egg
-*.egg-info/
-*.so
+*.spec
 
-# Logs
+# Logs and temp files
 *.log
+*.tmp
+*.swp
 
-# OS generated files
-.DS_Store
-Thumbs.db
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Compressed files
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
 ```
-stay_out_timer_package.zip
