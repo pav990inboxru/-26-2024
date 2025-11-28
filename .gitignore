@@ -1,29 +1,38 @@
 ```
-# Configuration and data files
-*.json
-*.env
-*.env.*
-
-# Python specific
-*.pyc
+# Build artifacts
+*.spec
+dist/
+build/
 __pycache__/
+*.pyc
 *.pyo
 *.pyd
-.Python
-python-eggs/
 
-# Build artifacts
-build/
-dist/
-*.egg
-*.egg-info/
-*.so
+# Dependencies
+venv/
+.venv/
+.env
+.env.local
+
+# Editors
+.vscode/
+.idea/
 
 # Logs
 *.log
 
-# OS generated files
+# OS
 .DS_Store
 Thumbs.db
 ```
-stay_out_timer_package.zip
+StayOutTimer_Complete_Package.zip
+
+StayOutTimer_Final_Fixed.zip
+
+StayOutTimer_Fixed_Package.zip
+
+StayOutTimer_Full_Package.zip
+
+StayOutTimer_Windows_v1.0.0.zip
+
+stay_out_timer_fixed.zip
