@@ -1,38 +1,64 @@
 ```
-# Build artifacts
-*.spec
-dist/
-build/
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Dependencies
+.Python
+env/
 venv/
 .venv/
+.ENV
+.ENV.local
+.ENV.*
 .env
 .env.local
+.env.*
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
 
-# Editors
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDEs
 .vscode/
 .idea/
-
-# Logs
-*.log
+*.swp
+*.swo
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*
 ```
-StayOutTimer_Complete_Package.zip
-
-StayOutTimer_Final_Fixed.zip
-
-StayOutTimer_Fixed_Package.zip
-
-StayOutTimer_Full_Package.zip
-
-StayOutTimer_Windows_v1.0.0.zip
-
-stay_out_timer_fixed.zip
